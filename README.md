@@ -1,7 +1,6 @@
 # thrifty
 
-Insurance flutter UI
-<a href="https://dribbble.com/shots/5031349-Thrifty-Insurance-App/attachments/1120743">UI Template</a>
+Insurance App flutter UI
 
 ## Screenshots
 
